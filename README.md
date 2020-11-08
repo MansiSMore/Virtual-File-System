@@ -17,7 +17,8 @@ Data structures used in the project -: Singly Linear Linked List.
 
 To compile this project, use the below command as -:
 
-gcc virtual_file_system.c -o myexe
+𝗴𝗰𝗰 𝘃𝗶𝗿𝘁𝘂𝗮𝗹_𝗳𝗶𝗹𝗲_𝘀𝘆𝘀𝘁𝗲𝗺.𝗰 -𝗼 𝗺𝘆𝗲𝘅𝗲
 
 To run this project, use the below command as -:
-./myexe
+
+./𝗺𝘆𝗲𝘅𝗲
