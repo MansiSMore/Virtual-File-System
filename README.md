@@ -15,6 +15,9 @@ Description of the project -: In this project, we are creating a file system whi
 
 Data structures used in the project -: Singly Linear Linked List.
 
-To run this project, use the below command as -:
+To compile this project, use the below command as -:
 
-gcc 
+gcc virtual_file_system.c -o myexe
+
+To run this project, use the below command as -:
+./myexe
